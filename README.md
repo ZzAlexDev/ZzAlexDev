@@ -33,6 +33,9 @@ An engineer with hands-on experience in 3D modeling and printing, who has transl
 **Parametric Parts Generator (CadQuery + FastAPI)** | `Python` `CadQuery` `FastAPI` `Docker`
 A web service that generates 3D models (STEP/STL) and technical documentation based on given engineering parameters (dimensions, material). Automates routine design work.
 
+**Data Quality Dashboard (Full-Stack Web App)** | `Python` `FastAPI` `Pandas` `Plotly` `Docker`
+A full-stack web application for rapid quality assessment of structured data. Users can upload a CSV file to receive an automated summary report that highlights missing values, identifies duplicate rows, and provides basic statistics. The results are visualized in an intuitive dashboard, giving analysts and developers a quick tool for initial data integrity checks before deep analysis or loading into reporting systems.
+
 **Inventory Management System (Django + PostgreSQL)** | `Django` `PostgreSQL` `Docker`
 Backend for accounting components and parts used in prototyping. Includes an API for integration with ordering systems and analytics on material consumption.
 
